@@ -1,0 +1,18 @@
+{
+    "welcomeText": "Bienvenido Candidato 01",
+    "version": "1.0.0",
+    "suppliers": [
+        {
+            "nickname": "Ale",
+            "rfc": "ale",
+            "address": "Avennida siempre nueva",
+            "cost": "1111111"
+        },
+        {
+            "nickname": "mIGUEL",
+            "rfc": "RFC",
+            "address": "qwdw",
+            "cost": "wdwd"
+        }
+    ]
+}
